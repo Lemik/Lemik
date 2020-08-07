@@ -3,8 +3,8 @@
 ### I'm QA, SET
 - 🇺🇦 I have bean made in Ukraine 
 - 🇨🇦 Currently located in Vancouver Canada 
-- 👟 I enjoy running 
-- 🌱 I’m currently learning everything 🤣
+- 👟 Enjoy running 
+- 🌱 I'm currently learning everything 🤣
 
 ### Connect with me:
 
@@ -19,7 +19,7 @@
 
 
 
-[website]: https://Dushyn.com
+[website]: http://Dushyn.com
 [youtube]: https://www.youtube.com/leonidushin
 [instagram]: https://www.instagram.com/leonidushin/
 [linkedin]: https://www.linkedin.com/in/leonid-dushin
