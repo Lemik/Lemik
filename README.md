@@ -1,7 +1,7 @@
-### Hi there, I'm Leonid - Leo for Canadians [website] 👋
+### Hi there, I'm - Leo 👋
 
 ### I'm QA, SET
-- 🇺🇦 I have bean made in Ukraine 
+- 🇺🇦 I was made in Ukraine 
 - 🇨🇦 Currently located in Vancouver Canada 
 - 👟 Enjoy running 
 - 🌱 I'm currently learning everything 🤣
